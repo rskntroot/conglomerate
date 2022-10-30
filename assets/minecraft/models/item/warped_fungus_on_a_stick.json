@@ -1,0 +1,23 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/warped_fungus_on_a_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {"custom_model_data": 540101}, "model": "lg:item/rifle"
+        },
+        {
+            "predicate": {"custom_model_data": 540102}, "model": "lg:item/shotgun"
+        },
+        {
+            "predicate": {"custom_model_data": 540103}, "model": "lg:item/db_shotgun"
+        },
+        {
+            "predicate": {"custom_model_data": 540104}, "model": "lg:item/db_so_shotgun"
+        },
+        {
+            "predicate": {"custom_model_data": 540105}, "model": "lg:item/mg"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": 
+	{
+        "layer0": "item/netherite_shovel"
+    },
+    "overrides": 
+	[
+		{ "predicate": {"custom_model_data": 980012}, "model": "enderanium:item/enderanium_shovel"}
+    ]
+}

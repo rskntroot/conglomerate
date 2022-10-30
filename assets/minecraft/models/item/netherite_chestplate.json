@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": 
+	{
+        "layer0": "item/netherite_chestplate"
+    },
+    "overrides": 
+	[
+		{ "predicate": {"custom_model_data": 980007}, "model": "enderanium:item/enderanium_chestplate"}
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "parent": "minecraft:block/template_command_block",
+    "textures": 
+	{
+		"back": "minecraft:block/command_block_back",
+		"front": "minecraft:block/command_block_front",
+		"side": "minecraft:block/command_block_side"
+	},
+    "overrides":
+	[
+		{ "predicate": {"custom_model_data": 980001}, "model": "enderanium:item/enderanium_ingot"},
+		{ "predicate": {"custom_model_data": 980002}, "model": "enderanium:blocks/enderanium_block"},
+		{ "predicate": {"custom_model_data": 980003}, "model": "enderanium:item/refined_enderanium"},
+		{ "predicate": {"custom_model_data": 980004}, "model": "enderanium:item/enderanium_powder"},
+		{ "predicate": {"custom_model_data": 980005}, "model": "enderanium:item/popped_enderanium"}
+    ]
+}

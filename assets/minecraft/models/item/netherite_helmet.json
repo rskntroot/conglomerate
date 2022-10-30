@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": 
+	{
+        "layer0": "item/netherite_helmet"
+    },
+    "overrides": 
+	[
+		{ "predicate": {"custom_model_data": 980006}, "model": "enderanium:item/enderanium_helmet"}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": 
+	{
+        "layer0": "item/netherite_boots"
+    },
+    "overrides": 
+	[
+		{ "predicate": {"custom_model_data": 980009}, "model": "enderanium:item/enderanium_boots"}
+    ]
+}
